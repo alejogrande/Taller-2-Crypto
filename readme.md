@@ -5,10 +5,15 @@ Cada archivo parte_X.py corresponde a una parte específica del taller.
 
 📁 Estructura del repositorio
 .
+
 ├── parte_1.py
+
 ├── parte_2.py
+
 ├── parte_3.py
+
 ├── parte_4.py
+
 └── README.md
 
 📌 Contenido de cada parte
